@@ -508,7 +508,7 @@ project/
 │
 ├── index.html
 ├── style.css
-├── media.css
+├── mediaQuery.css
 ├── script.js
 │
 └── README.md
